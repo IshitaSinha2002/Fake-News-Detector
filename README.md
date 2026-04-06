@@ -87,13 +87,13 @@ The model was trained using TF-IDF features extracted from cleaned text.</p>
 <h2>Visualizations</h2>
 <h3>Fake vs Real Distribution</h3>
 <p>Shows the balance between fake and real news samples.</p>
-<img src="images/distribution.png" width="600">
+<img src="https://github.com/IshitaSinha2002/Fake-News-Detector/blob/main/Confusion%20Matrix.png" width: 500px; height: 400px; object-fit: cover;>
 <h3>Confusion Matrix</h3>
 <p>Displays actual vs predicted classifications.</p>
-<img src="images/confusion_matrix.png" width="600">
+<img src="https://github.com/IshitaSinha2002/Fake-News-Detector/blob/main/Fake%20vs%20Real%20Dist.png" width: 500px; height: 400px; object-fit: cover;>
 <h3>Text Length Distribution</h3>
 <p>Shows variation in length of news articles.</p>
-<img src="images/text_length.png" width="600">
+<img src="https://github.com/IshitaSinha2002/Fake-News-Detector/blob/main/News%20Len%20Dist.png" width: 500px; height: 400px; object-fit: cover;>
 Both datasets include fields such as title and full news text, which are used for classification.</p>
 
 <h2>Key Insights</h2>
@@ -115,8 +115,8 @@ Both datasets include fields such as title and full news text, which are used fo
 </ul>
 
 <h3>Sample Input & Output</h3>
-<p>Input:  <br>
-Output: </p>
+<p>Input:  This shocking secret cure for cancer has been hidden by doctors for years!<br>
+Output: Fake News</p>
 
 <h2>Conclusion</h2>
 <p>This project demonstrates how NLP and machine learning can be used to detect misinformation in textual data.
